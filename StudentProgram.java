@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class StudentProgram {
+   
+  // Manin Driver Method 
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
 
@@ -27,6 +29,7 @@ public class StudentProgram {
     }
 }
 
+///Fields 
 class Student {
     private String name;
     private String studentClass;
@@ -56,9 +59,27 @@ class Student {
 // input details for each student
 //create new of both name & student class
 //create construtors with parameters
-// then tostring method to represt the object a string
+// then tostring method to represent the object a string
 
-/// THe END!!!!!
+
+//Inheritance
+//Make it Dynamic 
+//File handling
+//Method that write to afile 
+//Method to Display 
+//Exceptions
+// Interfaces
+//Graphical work
+//Jframework
+//Title for the project
+//One project with many Applications
+//User has to insert as many students as they want
+//Use GUI
+//Multithreading
+
+
+
+/// THE END!!
 
 
 

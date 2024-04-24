@@ -1,0 +1,31 @@
+// Multithreading => multiple threads or processses or program
+//Thread excecutes concurrently
+//Each thread reprents a seperate logic allowing simultaneous excecution of a programm
+//improving program performance and responsiveness in an app
+
+
+//Application
+//1.GUi application
+//2.Network
+//3.Parallel Computing        
+//4.BACKGROUND tASKS(MOST IMPORTANT IN MULTITHREADING)
+
+
+//SET IPI OF WHATSAPP 
+//SILICON VALLY
+//MR ROBOT
+//SOCIAL MEDIA
+
+
+implist importing 
+Explist importing
+
+
+
+
+
+
+
+ASSIGNMENT
+
+///CREAT A MUITITHREADED PROGRAM SHOULD HAVE 5 TASKS RUNNING COCURRENTY (10MARKS)
